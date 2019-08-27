@@ -255,7 +255,7 @@
 "mVJ-nV-a4v.headerTitle" = "Utilitaires";
 
 /* Class = "UITextField"; placeholder = "365 Days"; ObjectID = "min-G7-4yH"; */
-"min-G7-4yH.placeholder" = "365 Days";
+"min-G7-4yH.placeholder" = "365 Jours";
 
 /* Class = "UIButton"; normalTitle = "@AyyItzRob (Testing)"; ObjectID = "nxt-hY-cmG"; */
 "nxt-hY-cmG.normalTitle" = "@AyyItzRob (Testing)";
@@ -288,7 +288,7 @@
 "w92-OW-keF.normalTitle" = "@FCE365 (Development)";
 
 /* Class = "UIButton"; normalTitle = "Generator"; ObjectID = "xim-1p-tCK"; */
-"xim-1p-tCK.normalTitle" = "Generateur";
+"xim-1p-tCK.normalTitle" = "Générateur";
 
 /* Class = "UIButton"; normalTitle = "@xerub (Development)"; ObjectID = "yj7-t7-Qxc"; */
 "yj7-t7-Qxc.normalTitle" = "@xerub (Development)";
